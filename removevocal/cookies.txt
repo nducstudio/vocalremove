@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aivocalremover.com	TRUE	/	FALSE	1999999999	JSESSIONID	6AD2DB2627CA4C0C1B739EC298294504
+
